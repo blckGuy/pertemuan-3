@@ -1,5 +1,5 @@
 package ac.id.pobeng.Ramdani.RPL6A
-
+//berikut adalah beberapa kumpulan kata sambut dengan kodingan sederhana
 fun main() {
     val greeter = Greeter()
     greeter.greet()
