@@ -1,5 +1,5 @@
 package ac.id.pobeng.Ramdani.RPL6A
-//pada kodingan dibawah kita menentukan nilai yang seharusnya di masukkan agar tidak terjadi error
+//pada kodingan di bawah kita menentukan nilai yang seharusnya di masukkan agar tidak terjadi error
 //conothnya pada baris terakhir kodingan dan baris ke 17 kjodingan sudah dibuat pengecualian terhadap,
 //hasil yang dicetak nanti jika baris 24 masih bernilai -1 maka itu dinyatakan kecil dari 0
 //dan jika baris 24 di rubah menjadi 1 maka hasil yang dicetak tidak akan di thred
