@@ -1,5 +1,8 @@
 package ac.id.pobeng.Ramdani.RPL6A
-
+//Jika sebuah kelas terdapat konstruktor utama dan tambahan secara bersamaan, maka setiap
+//konstruktor tambahan harus mendelegasi (delegate) konstruktor utama, baik secara langsung
+//maupun tidak langsung melalui konstruktor tambahan. Delegasi ke konstruktor lain di kelas yang
+//sama dilakukan menggunakan keyword this.
 class PersonF(val firstName: String, val lastName: String) {
     init{
         println("sedang inisialisasi deik!")
